@@ -1,6 +1,7 @@
 .vscode/
 **/.DS_Store
 build/
+lib/
 release/
 include/
 src/glad.c
