@@ -25,7 +25,11 @@ set(
     # src/colors.cpp
     # src/basic_lightings.cpp
     # src/lighting_maps.cpp
-    src/light_casters.cpp
+    # src/light_casters.cpp
+    src/loading_model.cpp
+    src/model.h
+    src/mesh.h
+    src/mesh.cpp
     src/shader_class.h
     src/shader_class.cpp
     src/camera_class.h

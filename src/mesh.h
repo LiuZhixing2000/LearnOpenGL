@@ -1,3 +1,4 @@
+#pragma once
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <glm/glm.hpp>
@@ -16,6 +17,7 @@ struct vertex_{
 struct texture_{
     unsigned int id_;
     std::string type_;
+    std::string path_;
 };
 
 class mesh_{

@@ -5,3 +5,4 @@ lib/
 release/
 include/
 src/glad.c
+cases/
